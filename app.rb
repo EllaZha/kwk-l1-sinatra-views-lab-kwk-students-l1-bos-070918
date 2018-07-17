@@ -11,7 +11,7 @@ get '/goodbye' do
   erb :goodbye
 end
 
-get '/natalie'
+get '/natalie' do
 erb :testing 
 end
 end
