@@ -10,4 +10,8 @@ end
 get '/goodbye' do
   erb :goodbye
 end
+
+get '/natalie'
+erb :testing 
+end
 end
